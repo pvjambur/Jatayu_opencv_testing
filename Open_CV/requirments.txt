@@ -1,9 +1,0 @@
-opencv-python
-matplotlib
-opencv-contrib-python
-opencv-python-headless
-opencv-contrib-python-headless
-numpy
-matplotlib
-scikit-image
-imutils
